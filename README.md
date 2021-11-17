@@ -2,9 +2,6 @@
 <h1 align="left">I'm Siddharth Pandey aka CreativeSiddharth</h1>
 <h3 align="left">A passionate web developer from India</h3>
 
-<h1 align="center">Hi 👋, I'm Siddharth Pandey aka CreativeSiddharth</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
 
 - 🌱 I’m currently learning **Flutter and Node.js**
 
