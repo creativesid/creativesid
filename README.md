@@ -1,5 +1,5 @@
 <h3 align="left">Hi Everyone 👋</h3>
-<h1 align="left">I'm Siddharth Pandey aka CreativeSiddharth</h1>
+<h1 align="left">I'm Siddharth Pandey aka creative siddharth</h1>
 <h3 align="left">A passionate web developer from India</h3>
 
 
