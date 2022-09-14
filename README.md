@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Siddhart Pandey </h1>
+<h1>Hi 👋, I'm Siddharth Pandey </h1>
 <h3>aka creative siddharth a full stack web developer with a passion for great design and user experiences.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creativesid" alt="creativesid" /></a> </p>
